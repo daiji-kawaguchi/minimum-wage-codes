@@ -25,10 +25,7 @@ do "${path}\do\wage_reg.do";
 
 do "${path}\do\descriptive.do";
 do "${path}\do\cs_reg.do";
-do "${path}\do\cs_reg_coll.do";
 do "${path}\do\cs_reg_iv.do";
-do "${path}\do\cs_reg_wotrend.do";
-do "${path}\do\cs_reg_iv_wotrend.do";
 do "${path}\do\panelreg.do";
 
 *without Tokyo & Kanagawa;
